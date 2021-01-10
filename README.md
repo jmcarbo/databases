@@ -1,1 +1,1 @@
-[![Database examples](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmcarbo/binder/master?urlpath=git-pull&filepath=database-examples.ipynb?repo=https://github.com/jmcarbo/databases)
+[![Database examples](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmcarbo/binder/master?urlpath=git-pull?repo=https://github.com/jmcarbo/databases&filepath=tree/databases/database-examples.ipynb)
